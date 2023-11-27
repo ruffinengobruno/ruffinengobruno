@@ -1,6 +1,6 @@
 
 
-### Hi, I´m Bruno ! 👋
+# Hi, I´m Bruno ! 👋
 - 👨‍💻​ I´m a Front-End Developer
 - 📒​ I´m currently learning JavaScript
 - 👾 HTML, CSS, PHP, MySQL
